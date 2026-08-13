@@ -1,0 +1,471 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Continuous Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Abstruse CI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-31T17:06:40Z",
+            "owner": "bleenco",
+            "repo": "abstruse",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Badwolf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-07-11T02:44:32Z",
+            "owner": "bosondata",
+            "repo": "badwolf",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Integration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Continuous Delivery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VictoriaMetrics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:28:01Z",
+            "owner": "VictoriaMetrics",
+            "repo": "VictoriaMetrics",
+            "stars": 17521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamdal",
+          "description": "Code-Native Data Privacy - embed privacy controls in your application code to detect and monitor PII.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-02-22T13:52:02Z",
+            "owner": "streamdal",
+            "repo": "streamdal",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LynxDB",
+          "description": "Lightweight columnar log analytics database for SRE workflows, with a pipe-style query language inspired by SPL for investigating production logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T04:19:42Z",
+            "owner": "lynxbase",
+            "repo": "lynxdb",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoctorGPT",
+          "description": "Brings GPT into production for application log error monitoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-10T01:20:55Z",
+            "owner": "ingyamilmolinar",
+            "repo": "doctorgpt",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:11:48Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agenttrace",
+          "description": "TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T01:07:58Z",
+            "owner": "luoyuctl",
+            "repo": "agenttrace",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud-audit",
+          "description": "AWS security auditing CLI that runs 17 checks across IAM, S3, EC2, VPC, and RDS with built-in remediation engine generating AWS CLI commands and Terraform snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T08:53:31Z",
+            "owner": "gebalamariusz",
+            "repo": "cloud-audit",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSL Certificate Monitor",
+          "description": "Open-source SSL/TLS certificate expiry monitoring tool with email alerts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-18T16:53:51Z",
+            "owner": "brancogao",
+            "repo": "ssl-certificate-monitor",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClaw Monitor",
+          "description": "Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-14T14:08:28Z",
+            "owner": "flik2002",
+            "repo": "openclaw-monitor",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "net-benchmark",
+          "description": "DNS/HTTP/SSL benchmarking with CSV, Excel, PDF, and JSON exports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T04:33:51Z",
+            "owner": "net-benchmark",
+            "repo": "net-benchmark",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faultline",
+          "description": "Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-05T22:45:27Z",
+            "owner": "faultline-cli",
+            "repo": "faultline",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNS Propagation Checker",
+          "description": "Open-source DNS propagation monitoring tool with global DNS server coverage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-18T06:51:59Z",
+            "owner": "brancogao",
+            "repo": "dns-propagation-checker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ingero",
+          "description": "eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.",
+          "children": []
+        }
+      ],
+      "title": "Continuous Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keep - CLI for alerting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:50:30Z",
+            "owner": "keephq",
+            "repo": "keep",
+            "stars": 12202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HolmesGPT",
+          "description": "Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:29:44Z",
+            "owner": "HolmesGPT",
+            "repo": "holmesgpt",
+            "stars": 3050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDuty",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-01-15T08:54:06Z",
+            "owner": "ustream",
+            "repo": "openduty",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLO exporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-19T01:24:26Z",
+            "owner": "seznam",
+            "repo": "slo-exporter",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLO Calculator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-04T23:12:42Z",
+            "owner": "last9",
+            "repo": "slo-computer",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regen",
+          "description": "Open-source, self-hosted incident management with alert ingestion, on-call scheduling, escalation policies, AI-powered post-mortems, and Slack/Teams integration. AGPLv3 — self-hosted alternative to PagerDuty and Grafana OnCall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T13:27:57Z",
+            "owner": "FluidifyAI",
+            "repo": "Regen",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NthLayer",
+          "description": "Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-13T05:11:30Z",
+            "owner": "rsionnach",
+            "repo": "nthlayer",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rootly CLI",
+          "description": "Open-source CLI to manage Rootly incidents, alerts, services, teams, and on-call schedules from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:19:05Z",
+            "owner": "rootlyhq",
+            "repo": "rootly-cli",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Merlinn",
+          "description": "Open-source AI on-call developer",
+          "children": []
+        }
+      ],
+      "title": "Incident Management / Incident Response / IT Alerting / On-Call"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Radar",
+          "description": "Open source Kubernetes visibility tool with a built-in MCP server for AI-assisted cluster operations — topology, service traffic, events, logs, and a 31-check best-practices audit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:50:42Z",
+            "owner": "skyhook-io",
+            "repo": "radar",
+            "stars": 2881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IncidentFox",
+          "description": "(open source)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-03T06:09:38Z",
+            "owner": "incidentfox",
+            "repo": "incidentfox",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora",
+          "description": "Open source (Apache 2.0) AI SRE agent that autonomously investigates incidents and performs root cause analysis across AWS, Azure, GCP, and Kubernetes. Self-hosted via Docker Compose or Helm, works with major LLM providers or local models via Ollama.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:37:31Z",
+            "owner": "Arvo-AI",
+            "repo": "aurora",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cynative",
+          "description": "Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:46:40Z",
+            "owner": "cynative",
+            "repo": "cynative",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:11:48Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailscale-mcp",
+          "description": "MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T23:46:30Z",
+            "owner": "YawLabs",
+            "repo": "tailscale-mcp",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ingero",
+          "description": "eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.",
+          "children": []
+        }
+      ],
+      "title": "AI SRE Tools & SRE Copilots"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Stargazers over time"
+    },
+    {
+      "description": "Shield:\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n",
+      "items": [],
+      "title": "Licence"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:35:09.167Z",
+    "original_repository": "SquadcastHub/awesome-sre-tools",
+    "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
+    "enhanced_repository": "enhansome/enhansome-sre-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome Site Reliability Engineering Tools with stars"
+  }
+}
