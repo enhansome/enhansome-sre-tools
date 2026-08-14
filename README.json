@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T20:01:02Z",
+            "last_commit": "2026-08-14T16:01:45Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17525
+            "stars": 17529
           }
         },
         {
@@ -88,7 +88,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T04:19:42Z",
+            "last_commit": "2026-08-14T08:40:27Z",
             "owner": "lynxbase",
             "repo": "lynxdb",
             "stars": 282
@@ -116,7 +116,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T22:42:45Z",
+            "last_commit": "2026-08-14T21:39:48Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -175,7 +175,7 @@
             "last_commit": "2026-05-14T14:08:28Z",
             "owner": "flik2002",
             "repo": "openclaw-monitor",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-08T08:50:30Z",
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12203
+            "stars": 12207
           }
         },
         {
@@ -254,10 +254,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:02:57Z",
+            "last_commit": "2026-08-14T12:36:07Z",
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3055
+            "stars": 3066
           }
         },
         {
@@ -364,10 +364,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:16:59Z",
+            "last_commit": "2026-08-14T20:36:27Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 2895
+            "stars": 2911
           }
         },
         {
@@ -392,10 +392,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:37:31Z",
+            "last_commit": "2026-08-14T13:42:19Z",
             "owner": "Arvo-AI",
             "repo": "aurora",
-            "stars": 391
+            "stars": 393
           }
         },
         {
@@ -406,10 +406,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T20:34:12Z",
+            "last_commit": "2026-08-14T18:09:15Z",
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -420,7 +420,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T22:42:45Z",
+            "last_commit": "2026-08-14T21:39:48Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:24:57.352Z",
+    "last_updated": "2026-08-14T23:00:05.680Z",
     "original_repository": "SquadcastHub/awesome-sre-tools",
     "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
     "enhanced_repository": "enhansome/enhansome-sre-tools",
