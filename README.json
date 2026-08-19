@@ -1,56 +1,50 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Abstruse CI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84880847,
+                "language": "Go",
+                "last_commit": "2024-01-31T17:06:40Z",
+                "owner": "bleenco",
+                "repo": "abstruse",
+                "stars": 959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Badwolf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 67678705,
+                "language": "Python",
+                "last_commit": "2019-07-11T02:44:32Z",
+                "owner": "bosondata",
+                "repo": "badwolf",
+                "stars": 89
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Integration"
+        }
+      ],
       "title": "Continuous Integration"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Abstruse CI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-01-31T17:06:40Z",
-            "owner": "bleenco",
-            "repo": "abstruse",
-            "stars": 959
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Badwolf",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-07-11T02:44:32Z",
-            "owner": "bosondata",
-            "repo": "badwolf",
-            "stars": 89
-          }
-        }
-      ],
-      "title": "Integration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Continuous Delivery"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -59,11 +53,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-18T16:30:17Z",
+            "last_commit": "2026-08-19T12:39:34Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17560
+            "stars": 17566
           }
         },
         {
@@ -73,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 674687849,
             "language": "TypeScript",
             "last_commit": "2026-02-22T13:52:02Z",
             "owner": "streamdal",
@@ -87,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171631123,
             "language": "Go",
             "last_commit": "2026-08-15T03:03:35Z",
             "owner": "lynxbase",
@@ -101,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615913453,
             "language": "Go",
             "last_commit": "2023-05-10T01:20:55Z",
             "owner": "ingyamilmolinar",
@@ -115,8 +113,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:06:37Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -129,11 +128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1226187070,
             "language": "Rust",
             "last_commit": "2026-08-17T01:11:50Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -143,11 +143,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171552326,
             "language": "Python",
             "last_commit": "2026-07-21T08:53:31Z",
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -157,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160656833,
             "language": "TypeScript",
             "last_commit": "2026-02-18T16:53:51Z",
             "owner": "brancogao",
@@ -171,6 +173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214883054,
             "language": "JavaScript",
             "last_commit": "2026-05-14T14:08:28Z",
             "owner": "flik2002",
@@ -185,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230103184,
             "language": "Python",
             "last_commit": "2026-08-17T16:25:02Z",
             "owner": "net-benchmark",
@@ -199,6 +203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1209180321,
             "language": "Go",
             "last_commit": "2026-06-05T22:45:27Z",
             "owner": "faultline-cli",
@@ -213,24 +218,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160617959,
             "language": "TypeScript",
             "last_commit": "2026-02-18T06:51:59Z",
             "owner": "brancogao",
             "repo": "dns-propagation-checker",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ingero",
-          "description": "eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.",
-          "children": []
         }
       ],
       "title": "Continuous Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -239,11 +239,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597502256,
             "language": "Python",
-            "last_commit": "2026-08-17T19:42:39Z",
+            "last_commit": "2026-08-19T06:37:47Z",
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12224
+            "stars": 12225
           }
         },
         {
@@ -253,11 +254,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 808146034,
             "language": "Python",
-            "last_commit": "2026-08-18T22:35:38Z",
+            "last_commit": "2026-08-19T10:04:00Z",
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3088
+            "stars": 3102
           }
         },
         {
@@ -267,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20069952,
             "language": "Python",
             "last_commit": "2019-01-15T08:54:06Z",
             "owner": "ustream",
@@ -281,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272905705,
             "language": "Go",
             "last_commit": "2026-03-19T01:24:26Z",
             "owner": "seznam",
@@ -295,6 +299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362671182,
             "language": "Go",
             "last_commit": "2025-03-04T23:12:42Z",
             "owner": "last9",
@@ -309,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1152301358,
             "language": "Go",
             "last_commit": "2026-08-09T13:27:57Z",
             "owner": "FluidifyAI",
@@ -323,6 +329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1104878764,
             "language": "Shell",
             "last_commit": "2026-07-13T05:11:30Z",
             "owner": "rsionnach",
@@ -337,24 +344,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160086928,
             "language": "Go",
             "last_commit": "2026-08-13T04:19:05Z",
             "owner": "rootlyhq",
             "repo": "rootly-cli",
             "stars": 9
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Merlinn",
-          "description": "Open-source AI on-call developer",
-          "children": []
         }
       ],
       "title": "Incident Management / Incident Response / IT Alerting / On-Call"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -363,11 +365,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-18T21:58:31Z",
+            "last_commit": "2026-08-19T12:19:46Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 2996
+            "stars": 3003
           }
         },
         {
@@ -377,6 +380,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1138015269,
             "language": "Python",
             "last_commit": "2026-03-03T06:09:38Z",
             "owner": "incidentfox",
@@ -391,8 +395,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1139861340,
             "language": "Python",
-            "last_commit": "2026-08-18T19:27:00Z",
+            "last_commit": "2026-08-19T12:27:46Z",
             "owner": "Arvo-AI",
             "repo": "aurora",
             "stars": 396
@@ -405,8 +410,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1279470595,
             "language": "Go",
-            "last_commit": "2026-08-18T15:23:12Z",
+            "last_commit": "2026-08-19T07:23:43Z",
             "owner": "cynative",
             "repo": "cynative",
             "stars": 190
@@ -419,8 +425,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:06:37Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -433,36 +440,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200816695,
             "language": "TypeScript",
             "last_commit": "2026-08-08T23:46:30Z",
             "owner": "YawLabs",
             "repo": "tailscale-mcp",
             "stars": 26
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ingero",
-          "description": "eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.",
-          "children": []
         }
       ],
       "title": "AI SRE Tools & SRE Copilots"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Stargazers over time"
-    },
-    {
-      "description": "Shield:\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n",
-      "items": [],
-      "title": "Licence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:00:32.558Z",
+    "last_updated": "2026-08-19T12:52:39.623Z",
     "original_repository": "SquadcastHub/awesome-sre-tools",
+    "original_repository_id": 245971214,
     "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
     "enhanced_repository": "enhansome/enhansome-sre-tools",
     "enhanced_repository_description": null,
