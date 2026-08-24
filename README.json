@@ -4,6 +4,27 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "flakybin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1260072487,
+            "language": "Go",
+            "last_commit": "2026-06-07T17:36:06Z",
+            "owner": "mikluko",
+            "repo": "flakybin",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Continuous Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -55,10 +76,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-22T08:31:08Z",
+            "last_commit": "2026-08-24T13:44:47Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17582
+            "stars": 17589
           }
         },
         {
@@ -115,7 +136,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:51:07Z",
+            "last_commit": "2026-08-24T10:52:39Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -130,10 +151,10 @@
             "archived": false,
             "id": 1226187070,
             "language": "Rust",
-            "last_commit": "2026-08-22T05:02:09Z",
+            "last_commit": "2026-08-24T01:09:37Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -241,10 +262,10 @@
             "archived": false,
             "id": 597502256,
             "language": "Python",
-            "last_commit": "2026-08-23T11:13:10Z",
+            "last_commit": "2026-08-24T07:26:38Z",
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12238
+            "stars": 12240
           }
         },
         {
@@ -256,10 +277,10 @@
             "archived": false,
             "id": 808146034,
             "language": "Python",
-            "last_commit": "2026-08-23T21:45:30Z",
+            "last_commit": "2026-08-24T13:20:27Z",
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3123
+            "stars": 3131
           }
         },
         {
@@ -319,7 +340,7 @@
             "last_commit": "2026-08-09T13:27:57Z",
             "owner": "FluidifyAI",
             "repo": "Regen",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -367,10 +388,10 @@
             "archived": false,
             "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-23T21:05:06Z",
+            "last_commit": "2026-08-24T14:00:01Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3055
+            "stars": 3082
           }
         },
         {
@@ -397,7 +418,7 @@
             "archived": false,
             "id": 1139861340,
             "language": "Python",
-            "last_commit": "2026-08-21T19:59:01Z",
+            "last_commit": "2026-08-24T13:26:03Z",
             "owner": "Arvo-AI",
             "repo": "aurora",
             "stars": 399
@@ -412,10 +433,10 @@
             "archived": false,
             "id": 1279470595,
             "language": "Go",
-            "last_commit": "2026-08-23T22:05:31Z",
+            "last_commit": "2026-08-24T12:49:55Z",
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -427,7 +448,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:51:07Z",
+            "last_commit": "2026-08-24T10:52:39Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -453,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:59:00.296Z",
+    "last_updated": "2026-08-24T14:09:19.180Z",
     "original_repository": "SquadcastHub/awesome-sre-tools",
     "original_repository_id": 245971214,
     "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
