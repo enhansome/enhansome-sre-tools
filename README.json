@@ -76,10 +76,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-24T13:44:47Z",
+            "last_commit": "2026-08-24T21:06:41Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17589
+            "stars": 17590
           }
         },
         {
@@ -136,7 +136,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:52:39Z",
+            "last_commit": "2026-08-24T20:31:59Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -265,7 +265,7 @@
             "last_commit": "2026-08-24T07:26:38Z",
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12240
+            "stars": 12241
           }
         },
         {
@@ -388,10 +388,10 @@
             "archived": false,
             "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-24T14:00:01Z",
+            "last_commit": "2026-08-24T21:54:52Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3082
+            "stars": 3101
           }
         },
         {
@@ -418,7 +418,7 @@
             "archived": false,
             "id": 1139861340,
             "language": "Python",
-            "last_commit": "2026-08-24T13:26:03Z",
+            "last_commit": "2026-08-24T20:10:56Z",
             "owner": "Arvo-AI",
             "repo": "aurora",
             "stars": 399
@@ -433,7 +433,7 @@
             "archived": false,
             "id": 1279470595,
             "language": "Go",
-            "last_commit": "2026-08-24T12:49:55Z",
+            "last_commit": "2026-08-24T15:21:16Z",
             "owner": "cynative",
             "repo": "cynative",
             "stars": 192
@@ -448,7 +448,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:52:39Z",
+            "last_commit": "2026-08-24T20:31:59Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:19.180Z",
+    "last_updated": "2026-08-24T23:02:07.087Z",
     "original_repository": "SquadcastHub/awesome-sre-tools",
     "original_repository_id": 245971214,
     "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
