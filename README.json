@@ -76,10 +76,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-24T21:06:41Z",
+            "last_commit": "2026-08-25T00:53:18Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17590
+            "stars": 17591
           }
         },
         {
@@ -136,7 +136,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:31:59Z",
+            "last_commit": "2026-08-25T05:53:34Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -265,7 +265,7 @@
             "last_commit": "2026-08-24T07:26:38Z",
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12241
+            "stars": 12242
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-08-24T13:20:27Z",
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3131
+            "stars": 3132
           }
         },
         {
@@ -388,10 +388,10 @@
             "archived": false,
             "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-24T21:54:52Z",
+            "last_commit": "2026-08-24T23:39:35Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3101
+            "stars": 3104
           }
         },
         {
@@ -448,7 +448,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:31:59Z",
+            "last_commit": "2026-08-25T05:53:34Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:02:07.087Z",
+    "last_updated": "2026-08-25T06:03:02.496Z",
     "original_repository": "SquadcastHub/awesome-sre-tools",
     "original_repository_id": 245971214,
     "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",

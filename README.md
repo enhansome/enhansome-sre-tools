@@ -242,11 +242,11 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Continuous Monitoring
 
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/) ⭐ 17,590 | 🐛 779 | 🌐 Go | 📅 2026-08-24
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/) ⭐ 17,591 | 🐛 779 | 🌐 Go | 📅 2026-08-25
 * [Streamdal](https://streamdal.com) - Code-Native Data Privacy - embed privacy controls in your application code to detect and monitor PII. [![Streamdal](https://img.shields.io/github/stars/streamdal/streamdal?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/streamdal/streamdal) ⚠️ Archived
 * [LynxDB](https://github.com/lynxbase/lynxdb) ⭐ 282 | 🐛 8 | 🌐 Go | 📅 2026-08-15 - Lightweight columnar log analytics database for SRE workflows, with a pipe-style query language inspired by SPL for investigating production logs.
 * [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) ⭐ 210 | 🐛 0 | 🌐 Go | 📅 2023-05-10 - Brings GPT into production for application log error monitoring
-* [KubeStellar Console](https://console.kubestellar.io) - Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox. [![KubeStellar Console](https://img.shields.io/github/stars/kubestellar/console?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/kubestellar/console) ⭐ 127 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-24
+* [KubeStellar Console](https://console.kubestellar.io) - Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox. [![KubeStellar Console](https://img.shields.io/github/stars/kubestellar/console?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/kubestellar/console) ⭐ 127 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-25
 * [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 122 | 🐛 7 | 🌐 Rust | 📅 2026-08-24 - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 * [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 69 | 🐛 10 | 🌐 Python | 📅 2026-07-21 - AWS security auditing CLI that runs 17 checks across IAM, S3, EC2, VPC, and RDS with built-in remediation engine generating AWS CLI commands and Terraform snippets.
 * [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-18 - Open-source SSL/TLS certificate expiry monitoring tool with email alerts
@@ -316,8 +316,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 
-* [Keep - CLI for alerting](https://github.com/keephq/keep) ⭐ 12,241 | 🐛 572 | 🌐 Python | 📅 2026-08-24
-* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,131 | 🐛 393 | 🌐 Python | 📅 2026-08-24 - Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.
+* [Keep - CLI for alerting](https://github.com/keephq/keep) ⭐ 12,242 | 🐛 572 | 🌐 Python | 📅 2026-08-24
+* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,132 | 🐛 394 | 🌐 Python | 📅 2026-08-24 - Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.
 * [OpenDuty](https://github.com/ustream/openduty) ⚠️ Archived
 * [SLO exporter](https://github.com/seznam/slo-exporter) ⭐ 193 | 🐛 15 | 🌐 Go | 📅 2026-03-19
 * [SLO Calculator](https://github.com/last9/slo-computer) ⭐ 133 | 🐛 1 | 🌐 Go | 📅 2025-03-04
@@ -385,11 +385,11 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## AI SRE Tools & SRE Copilots
 
-* [Radar](https://github.com/skyhook-io/radar) ⭐ 3,101 | 🐛 55 | 🌐 Go | 📅 2026-08-24 - Open source Kubernetes visibility tool with a built-in MCP server for AI-assisted cluster operations — topology, service traffic, events, logs, and a 31-check best-practices audit.
+* [Radar](https://github.com/skyhook-io/radar) ⭐ 3,104 | 🐛 56 | 🌐 Go | 📅 2026-08-24 - Open source Kubernetes visibility tool with a built-in MCP server for AI-assisted cluster operations — topology, service traffic, events, logs, and a 31-check best-practices audit.
 * [IncidentFox](https://github.com/incidentfox/incidentfox) ⚠️ Archived (open source)
 * [Aurora](https://github.com/Arvo-AI/aurora) ⭐ 399 | 🐛 55 | 🌐 Python | 📅 2026-08-24 - Open source (Apache 2.0) AI SRE agent that autonomously investigates incidents and performs root cause analysis across AWS, Azure, GCP, and Kubernetes. Self-hosted via Docker Compose or Helm, works with major LLM providers or local models via Ollama.
 * [Cynative](https://github.com/cynative/cynative) ⭐ 192 | 🐛 17 | 🌐 Go | 📅 2026-08-24 - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-24 - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-25 - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
 * [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-23 - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
 * [Sherlocks.ai](https://www.sherlocks.ai)
 * [Resolve.ai](https://resolve.ai/)
@@ -427,4 +427,4 @@ License][cc-by].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
