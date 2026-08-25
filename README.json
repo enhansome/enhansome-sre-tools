@@ -76,10 +76,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-25T00:53:18Z",
+            "last_commit": "2026-08-25T13:55:01Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17591
+            "stars": 17594
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-15T03:03:35Z",
             "owner": "lynxbase",
             "repo": "lynxdb",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -136,7 +136,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:53:34Z",
+            "last_commit": "2026-08-25T21:54:23Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -265,7 +265,7 @@
             "last_commit": "2026-08-24T07:26:38Z",
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12242
+            "stars": 12246
           }
         },
         {
@@ -277,10 +277,10 @@
             "archived": false,
             "id": 808146034,
             "language": "Python",
-            "last_commit": "2026-08-24T13:20:27Z",
+            "last_commit": "2026-08-25T14:20:12Z",
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3132
+            "stars": 3143
           }
         },
         {
@@ -388,10 +388,10 @@
             "archived": false,
             "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-24T23:39:35Z",
+            "last_commit": "2026-08-25T22:59:16Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3104
+            "stars": 3115
           }
         },
         {
@@ -418,7 +418,7 @@
             "archived": false,
             "id": 1139861340,
             "language": "Python",
-            "last_commit": "2026-08-24T20:10:56Z",
+            "last_commit": "2026-08-25T17:48:01Z",
             "owner": "Arvo-AI",
             "repo": "aurora",
             "stars": 399
@@ -433,7 +433,7 @@
             "archived": false,
             "id": 1279470595,
             "language": "Go",
-            "last_commit": "2026-08-24T15:21:16Z",
+            "last_commit": "2026-08-25T19:08:24Z",
             "owner": "cynative",
             "repo": "cynative",
             "stars": 192
@@ -448,7 +448,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:53:34Z",
+            "last_commit": "2026-08-25T21:54:23Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:02.496Z",
+    "last_updated": "2026-08-25T23:03:44.058Z",
     "original_repository": "SquadcastHub/awesome-sre-tools",
     "original_repository_id": 245971214,
     "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
