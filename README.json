@@ -16,7 +16,8 @@
             "owner": "mikluko",
             "repo": "flakybin",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         }
       ],
       "title": "Continuous Testing"
@@ -39,7 +40,8 @@
                 "owner": "bleenco",
                 "repo": "abstruse",
                 "stars": 959
-              }
+              },
+              "first_seen": "2026-08-28T06:21:47.400Z"
             },
             {
               "node_type": "item",
@@ -54,7 +56,8 @@
                 "owner": "bosondata",
                 "repo": "badwolf",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T06:21:47.400Z"
             }
           ],
           "description": null,
@@ -76,11 +79,12 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-27T11:49:58Z",
+            "last_commit": "2026-08-28T06:13:43Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17599
-          }
+            "stars": 17604
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -95,7 +99,8 @@
             "owner": "streamdal",
             "repo": "streamdal",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -110,7 +115,8 @@
             "owner": "lynxbase",
             "repo": "lynxdb",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -125,7 +131,8 @@
             "owner": "ingyamilmolinar",
             "repo": "doctorgpt",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -136,11 +143,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:43Z",
+            "last_commit": "2026-08-28T05:41:22Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
-          }
+            "stars": 129
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -155,7 +163,8 @@
             "owner": "luoyuctl",
             "repo": "agenttrace",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -170,7 +179,8 @@
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "brancogao",
             "repo": "ssl-certificate-monitor",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "flik2002",
             "repo": "openclaw-monitor",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "net-benchmark",
             "repo": "net-benchmark",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
             "owner": "faultline-cli",
             "repo": "faultline",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -245,7 +259,8 @@
             "owner": "brancogao",
             "repo": "dns-propagation-checker",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         }
       ],
       "title": "Continuous Monitoring"
@@ -265,8 +280,9 @@
             "last_commit": "2026-08-24T07:26:38Z",
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12255
-          }
+            "stars": 12258
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -280,8 +296,9 @@
             "last_commit": "2026-08-26T07:26:34Z",
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3153
-          }
+            "stars": 3159
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -296,7 +313,8 @@
             "owner": "ustream",
             "repo": "openduty",
             "stars": 790
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -311,7 +329,8 @@
             "owner": "seznam",
             "repo": "slo-exporter",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -326,7 +345,8 @@
             "owner": "last9",
             "repo": "slo-computer",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -341,7 +361,8 @@
             "owner": "FluidifyAI",
             "repo": "Regen",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -356,7 +377,8 @@
             "owner": "rsionnach",
             "repo": "nthlayer",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -370,8 +392,9 @@
             "last_commit": "2026-08-13T04:19:05Z",
             "owner": "rootlyhq",
             "repo": "rootly-cli",
-            "stars": 9
-          }
+            "stars": 10
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         }
       ],
       "title": "Incident Management / Incident Response / IT Alerting / On-Call"
@@ -388,11 +411,12 @@
             "archived": false,
             "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-27T11:48:32Z",
+            "last_commit": "2026-08-28T06:05:02Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3142
-          }
+            "stars": 3148
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -407,7 +431,8 @@
             "owner": "incidentfox",
             "repo": "incidentfox",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -418,11 +443,12 @@
             "archived": false,
             "id": 1139861340,
             "language": "Python",
-            "last_commit": "2026-08-26T23:19:54Z",
+            "last_commit": "2026-08-27T16:35:50Z",
             "owner": "Arvo-AI",
             "repo": "aurora",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -433,11 +459,12 @@
             "archived": false,
             "id": 1279470595,
             "language": "Go",
-            "last_commit": "2026-08-26T14:48:21Z",
+            "last_commit": "2026-08-27T20:57:47Z",
             "owner": "cynative",
             "repo": "cynative",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -448,11 +475,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:43Z",
+            "last_commit": "2026-08-28T05:41:22Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
-          }
+            "stars": 129
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         },
         {
           "node_type": "item",
@@ -467,14 +495,15 @@
             "owner": "YawLabs",
             "repo": "tailscale-mcp",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
         }
       ],
       "title": "AI SRE Tools & SRE Copilots"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:04.541Z",
+    "last_updated": "2026-08-28T06:21:47.400Z",
     "original_repository_info": {
       "archived": false,
       "id": 245971214,
