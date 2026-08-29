@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emulates an intermittently failing HTTP server with deterministic, seed-reproducible outage schedules",
+            "homepage": null,
             "id": 1260072487,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-07T17:36:06Z",
+            "open_issues": 0,
             "owner": "mikluko",
             "repo": "flakybin",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "chaos-engineering",
+              "fault-injection",
+              "go",
+              "http",
+              "kubernetes",
+              "testing",
+              "uptime-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         }
@@ -34,12 +47,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstruse is a free and open-source CI/CD platform that tests your models and code.",
+                "homepage": "https://ci.abstruse.app",
                 "id": 84880847,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-01-31T17:06:40Z",
+                "open_issues": 36,
                 "owner": "bleenco",
                 "repo": "abstruse",
-                "stars": 959
+                "stars": 959,
+                "topics": [
+                  "cd",
+                  "ci",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "continuous-testing",
+                  "docker",
+                  "dockerized",
+                  "server",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T06:21:47.400Z"
             },
@@ -50,12 +79,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Docker based continuous integration, continuous deployment and code lint review system for BitBucket",
+                "homepage": "https://badwolf.readthedocs.io/en/latest/",
                 "id": 67678705,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-07-11T02:44:32Z",
+                "open_issues": 8,
                 "owner": "bosondata",
                 "repo": "badwolf",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "bitbucket",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "continuous-testing",
+                  "devops",
+                  "docker",
+                  "lint-review"
+                ]
               },
               "first_seen": "2026-08-28T06:21:47.400Z"
             }
@@ -77,12 +120,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+            "homepage": "https://victoriametrics.com/",
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-28T06:13:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:38:36Z",
+            "open_issues": 786,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17604
+            "stars": 17609,
+            "topics": [
+              "database",
+              "grafana",
+              "graphite",
+              "influxdb",
+              "kubernetes",
+              "monitoring",
+              "observability",
+              "opentelemetry",
+              "opentsdb",
+              "prometheus",
+              "promql",
+              "thanos",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -93,12 +155,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code-Native Data Privacy",
+            "homepage": "https://www.streamdal.com",
             "id": 674687849,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-22T13:52:02Z",
+            "open_issues": 8,
             "owner": "streamdal",
             "repo": "streamdal",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "astrojs",
+              "data-contracts",
+              "deno",
+              "docker",
+              "event-driven",
+              "go",
+              "javascript",
+              "message-queues",
+              "nodejs",
+              "observability",
+              "python",
+              "reactjs",
+              "rust",
+              "streaming-data",
+              "tail-f",
+              "wasi",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -109,12 +194,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight schema-on-read analytics in a single binary",
+            "homepage": "https://docs.lynxdb.org/",
             "id": 1171631123,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T03:03:35Z",
+            "open_issues": 8,
             "owner": "lynxbase",
             "repo": "lynxdb",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "analytics",
+              "database",
+              "devops",
+              "golang",
+              "logging",
+              "splunk"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -125,12 +222,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DoctorGPT brings GPT into production for application log error diagnosing!",
+            "homepage": null,
             "id": 615913453,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-05-10T01:20:55Z",
+            "open_issues": 0,
             "owner": "ingyamilmolinar",
             "repo": "doctorgpt",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "application",
+              "chatgpt",
+              "diagnosis",
+              "diagnostics",
+              "error",
+              "gpt",
+              "log",
+              "log-analysis",
+              "production"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -141,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:41:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:37:00Z",
+            "open_issues": 20,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -157,12 +274,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度",
+            "homepage": "https://github.com/luoyuctl/agenttrace",
             "id": 1226187070,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T01:09:37Z",
+            "open_issues": 7,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 123
+            "stars": 124,
+            "topics": [
+              "ai-agent-observability",
+              "ai-agents",
+              "ai-cost-tracking",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "cursor",
+              "gemini-cli",
+              "opencode",
+              "qwen-code",
+              "rust",
+              "rust-cli",
+              "session-history",
+              "token-usage",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -173,12 +311,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.",
+            "homepage": null,
             "id": 1171552326,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T08:53:31Z",
+            "open_issues": 10,
             "owner": "gebalamariusz",
             "repo": "cloud-audit",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "audit",
+              "aws",
+              "aws-audit",
+              "aws-security",
+              "cis-benchmarks",
+              "cli",
+              "cloud-security",
+              "compliance",
+              "devops",
+              "devsecops",
+              "iam",
+              "infrastructure-as-code",
+              "infrastructure-security",
+              "open-source-security",
+              "python",
+              "python-cli",
+              "security",
+              "security-scanner",
+              "terraform",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -189,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSL Certificate Expiry Monitor - Monitor SSL certificates and get alerts before they expire",
+            "homepage": null,
             "id": 1160656833,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-18T16:53:51Z",
+            "open_issues": 0,
             "owner": "brancogao",
             "repo": "ssl-certificate-monitor",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -205,12 +374,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support",
+            "homepage": "https://github.com/flik2002/openclaw-monitor",
             "id": 1214883054,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-14T14:08:28Z",
+            "open_issues": 0,
             "owner": "flik2002",
             "repo": "openclaw-monitor",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ai-agent",
+              "ai-monitoring",
+              "dashboard",
+              "echarts",
+              "monitoring",
+              "open-source",
+              "openclaw",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -221,12 +404,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network benchmarking suite for DNS, HTTP, and SSL — with DNSSEC validation, DoH/DoT support, high‑concurrency testing, and enterprise‑grade reporting",
+            "homepage": null,
             "id": 1230103184,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T16:25:02Z",
+            "open_issues": 13,
             "owner": "net-benchmark",
             "repo": "net-benchmark",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "benchmark",
+              "cli",
+              "dns",
+              "dns-benchmark",
+              "dns-over-https",
+              "dns-over-tls",
+              "dnssec",
+              "enterprise",
+              "http-benchmark",
+              "latency",
+              "metrics",
+              "monitoring",
+              "network-monitoring",
+              "networking",
+              "open-source",
+              "performance",
+              "python",
+              "resolver",
+              "ssl",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -237,12 +446,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faultline is a deterministic CLI for CI failure diagnosis",
+            "homepage": null,
             "id": 1209180321,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-05T22:45:27Z",
+            "open_issues": 0,
             "owner": "faultline-cli",
             "repo": "faultline",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "analysis",
+              "ci",
+              "ci-cd",
+              "ci-cd-support",
+              "ci-support",
+              "cli",
+              "cli-tool",
+              "deterministic",
+              "dev-toolin",
+              "dev-tools",
+              "diagnostic-tool",
+              "log-analyzer",
+              "logs",
+              "playbooks"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -253,12 +482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Global DNS Propagation Checker - Check DNS propagation across worldwide servers in real-time",
+            "homepage": null,
             "id": 1160617959,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-18T06:51:59Z",
+            "open_issues": 0,
             "owner": "brancogao",
             "repo": "dns-propagation-checker",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         }
@@ -275,12 +509,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source AIOps and alert management platform",
+            "homepage": "https://keephq.dev",
             "id": 597502256,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:26:38Z",
+            "open_issues": 579,
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12258
+            "stars": 12260,
+            "topics": [
+              "aiops",
+              "alarm",
+              "alarms",
+              "alerting",
+              "alerts",
+              "monitoring",
+              "monitoring-tool",
+              "python",
+              "python3",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -291,12 +541,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SRE Agent - CNCF Sandbox Project",
+            "homepage": "https://holmesgpt.dev/",
             "id": 808146034,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:26:34Z",
+            "open_issues": 401,
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3159
+            "stars": 3162,
+            "topics": [
+              "aiops",
+              "chatbot",
+              "chatops",
+              "devops",
+              "devops-tools",
+              "incident",
+              "incident-management",
+              "incident-response",
+              "jira",
+              "kubernetes",
+              "llm",
+              "llm-agent",
+              "llm-framework",
+              "llms",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "site-reliability-engineering",
+              "slack",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -307,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source Alerting and incident escalation tool",
+            "homepage": null,
             "id": 20069952,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-15T08:54:06Z",
+            "open_issues": 35,
             "owner": "ustream",
             "repo": "openduty",
-            "stars": 790
+            "stars": 790,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -323,12 +604,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.",
+            "homepage": "https://github.com/seznam/slo-exporter/blob/master/README.md",
             "id": 272905705,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-19T01:24:26Z",
+            "open_issues": 15,
             "owner": "seznam",
             "repo": "slo-exporter",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "alerting",
+              "exporter",
+              "grafana",
+              "monitoring",
+              "prometheus",
+              "service-level-indicator",
+              "service-level-objective",
+              "sli",
+              "slo",
+              "slo-exporter",
+              "sre",
+              "sre-workbook"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -339,12 +638,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SLOs, Error windows and alerts are complicated. Here an attempt to make it easy",
+            "homepage": null,
             "id": 362671182,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-03-04T23:12:42Z",
+            "open_issues": 1,
             "owner": "last9",
             "repo": "slo-computer",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "metrics",
+              "observability",
+              "service-level-indicator",
+              "service-level-objective",
+              "sla",
+              "sli",
+              "slo",
+              "sre",
+              "sre-team"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -355,12 +669,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source oncall management Alerts, Incidents, AI post-mortems. Self-hosted alternative to PagerDuty &   incident.io. BYO-AI, Works with Prometheus, Grafana, Datadog, Slack, and Teams",
+            "homepage": "https://fluidify.ai",
             "id": 1152301358,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T11:01:46Z",
+            "open_issues": 19,
             "owner": "FluidifyAI",
             "repo": "Regen",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "ai-sre",
+              "alerting",
+              "devops",
+              "grafana",
+              "incident-management",
+              "observability",
+              "on-call",
+              "oncall-schedule",
+              "pagerduty-alternative",
+              "prometheus",
+              "self-hosted",
+              "slack",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -371,12 +704,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate the complete reliability stack from a service spec in 5 minutes. Dashboards, alerts, SLOs, PagerDuty - zero toil.",
+            "homepage": "https://rsionnach.github.io/nthlayer/",
             "id": 1104878764,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-13T05:11:30Z",
+            "open_issues": 35,
             "owner": "rsionnach",
             "repo": "nthlayer",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "alerts",
+              "devops",
+              "grafana",
+              "monitoring",
+              "observability",
+              "pagerduty",
+              "prometheus",
+              "python",
+              "slo",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -387,12 +736,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for managing Rootly incidents, alerts, services, teams, and on-call schedules",
+            "homepage": "https://rootly.com",
             "id": 1160086928,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-13T04:19:05Z",
+            "open_issues": 1,
             "owner": "rootlyhq",
             "repo": "rootly-cli",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cli",
+              "devops",
+              "golang",
+              "incident-management",
+              "oncall",
+              "rootly"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         }
@@ -409,12 +770,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.",
+            "homepage": "https://radarhq.io",
             "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-28T06:05:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:58:29Z",
+            "open_issues": 58,
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3148
+            "stars": 3156,
+            "topics": [
+              "ai-agents",
+              "argocd",
+              "cloud-native",
+              "fluxcd",
+              "gitops",
+              "helm",
+              "k8s",
+              "kubectl-plugin",
+              "kubernetes",
+              "kubernetes-dashboard",
+              "kubernetes-debugging",
+              "kubernetes-mcp",
+              "kubernetes-monitoring",
+              "kubernetes-tools",
+              "kubernetes-troubleshooting",
+              "kubernetes-ui",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -425,12 +812,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "AI-powered SRE platform for automated incident investigation",
+            "homepage": "https://www.incidentfox.ai/",
             "id": 1138015269,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-03T06:09:38Z",
+            "open_issues": 21,
             "owner": "incidentfox",
             "repo": "incidentfox",
-            "stars": 656
+            "stars": 656,
+            "topics": [
+              "ai-ops",
+              "ai-sre",
+              "cloud",
+              "devops",
+              "incident-management",
+              "observability",
+              "on-call"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -441,12 +841,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0.",
+            "homepage": "https://www.aurorasre.ai",
             "id": 1139861340,
             "language": "Python",
-            "last_commit": "2026-08-27T16:35:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:56:16Z",
+            "open_issues": 54,
             "owner": "Arvo-AI",
             "repo": "aurora",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "ai-agents",
+              "aiops",
+              "automation",
+              "aws",
+              "azure",
+              "datadog",
+              "devops",
+              "gcp",
+              "grafana",
+              "incident-management",
+              "kubernetes",
+              "langgraph",
+              "llm-agents",
+              "nextjs",
+              "observability",
+              "open-source",
+              "pagerduty",
+              "python",
+              "root-cause-analysis",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -457,12 +883,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your own security agents. Open-source framework for agents with live, read-only access to your infrastructure, with no path to widen it. Reasons across AWS, GCP, Azure, Kubernetes, GitHub and GitLab as one system.",
+            "homepage": "https://cynative.com",
             "id": 1279470595,
             "language": "Go",
-            "last_commit": "2026-08-27T20:57:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T14:48:46Z",
+            "open_issues": 16,
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "agentic-security",
+              "ai-agent",
+              "application-security",
+              "aws-security",
+              "azure-security",
+              "cli-tool",
+              "cloud-security",
+              "container-security",
+              "cybersecurity",
+              "devsecops",
+              "gcp-security",
+              "product-security",
+              "read-only",
+              "runtime-security",
+              "security-automation",
+              "security-tools",
+              "sovereign-ai",
+              "threat-hunting",
+              "trust-boundary",
+              "vulnerability-management"
+            ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -473,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:41:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:37:00Z",
+            "open_issues": 20,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -489,12 +946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tailscale MCP server for managing your tailnet from AI assistants",
+            "homepage": null,
             "id": 1200816695,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T20:44:50Z",
+            "open_issues": 0,
             "owner": "YawLabs",
             "repo": "tailscale-mcp",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         }
@@ -503,15 +965,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:21:47.400Z",
+    "last_updated": "2026-08-29T03:53:08.822Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Site Reliability and Production Engineering Tools",
+      "homepage": null,
       "id": 245971214,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-07-07T13:34:56Z",
+      "open_issues": 23,
       "owner": "SquadcastHub",
       "repo": "awesome-sre-tools",
-      "stars": 1496
+      "stars": 1496,
+      "topics": [
+        "availability",
+        "awesome",
+        "awesome-list",
+        "devops",
+        "devops-tools",
+        "incident-management",
+        "incident-responce",
+        "list",
+        "monitoring",
+        "monitoring-tools",
+        "post-mortem",
+        "postmortem",
+        "production",
+        "reliability",
+        "reliability-engineering",
+        "service-level-agreement",
+        "service-level-monitoring",
+        "service-level-objective",
+        "site-reliability-engineering",
+        "sre"
+      ]
     },
     "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
     "enhanced_repository": "enhansome/enhansome-sre-tools",
