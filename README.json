@@ -125,11 +125,11 @@
             "id": 150954997,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:29:57Z",
-            "open_issues": 786,
+            "last_commit": "2026-08-29T08:34:00Z",
+            "open_issues": 782,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17609,
+            "stars": 17614,
             "topics": [
               "database",
               "grafana",
@@ -258,11 +258,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:30:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-30T00:20:58Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
@@ -283,7 +283,7 @@
             "open_issues": 7,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 124,
+            "stars": 127,
             "topics": [
               "ai-agent-observability",
               "ai-agents",
@@ -547,10 +547,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:26:34Z",
-            "open_issues": 401,
+            "open_issues": 402,
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3162,
+            "stars": 3164,
             "topics": [
               "aiops",
               "chatbot",
@@ -775,11 +775,11 @@
             "id": 1137865761,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:16:55Z",
-            "open_issues": 57,
+            "last_commit": "2026-08-30T00:23:58Z",
+            "open_issues": 51,
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3156,
+            "stars": 3162,
             "topics": [
               "ai-agents",
               "argocd",
@@ -892,7 +892,7 @@
             "open_issues": 16,
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "agentic-security",
               "ai-agent",
@@ -930,11 +930,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:30:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-30T00:20:58Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:28.271Z",
+    "last_updated": "2026-08-30T00:44:05.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Site Reliability and Production Engineering Tools",
