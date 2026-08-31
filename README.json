@@ -126,10 +126,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T08:34:00Z",
-            "open_issues": 782,
+            "open_issues": 783,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17614,
+            "stars": 17617,
             "topics": [
               "database",
               "grafana",
@@ -258,11 +258,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T00:20:58Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-30T23:43:14Z",
+            "open_issues": 8,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 131,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
@@ -518,7 +518,7 @@
             "open_issues": 579,
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12260,
+            "stars": 12259,
             "topics": [
               "aiops",
               "alarm",
@@ -546,11 +546,11 @@
             "id": 808146034,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T07:26:34Z",
-            "open_issues": 402,
+            "last_commit": "2026-08-30T13:23:57Z",
+            "open_issues": 403,
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3164,
+            "stars": 3167,
             "topics": [
               "aiops",
               "chatbot",
@@ -775,11 +775,11 @@
             "id": 1137865761,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T00:23:58Z",
-            "open_issues": 51,
+            "last_commit": "2026-08-31T00:50:57Z",
+            "open_issues": 55,
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3162,
+            "stars": 3174,
             "topics": [
               "ai-agents",
               "argocd",
@@ -850,7 +850,7 @@
             "open_issues": 54,
             "owner": "Arvo-AI",
             "repo": "aurora",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "ai-agents",
               "aiops",
@@ -930,11 +930,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T00:20:58Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-30T23:43:14Z",
+            "open_issues": 8,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 131,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:44:05.481Z",
+    "last_updated": "2026-08-31T00:51:42.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Site Reliability and Production Engineering Tools",
@@ -974,7 +974,7 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2026-07-07T13:34:56Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": "SquadcastHub",
       "repo": "awesome-sre-tools",
       "stars": 1496,
