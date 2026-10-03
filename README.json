@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "flakybin",
-          "description": null,
+          "description": "mikluko/flakybin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "Abstruse CI",
-              "description": null,
+              "description": "bleenco/abstruse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -75,7 +75,7 @@
             {
               "node_type": "item",
               "title": "Badwolf",
-              "description": null,
+              "description": "bosondata/badwolf",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -116,7 +116,7 @@
         {
           "node_type": "item",
           "title": "VictoriaMetrics",
-          "description": null,
+          "description": "VictoriaMetrics/VictoriaMetrics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -129,7 +129,7 @@
             "open_issues": 785,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17809,
+            "stars": 17810,
             "topics": [
               "database",
               "grafana",
@@ -202,7 +202,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-15T03:03:35Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "lynxbase",
             "repo": "lynxdb",
             "stars": 285,
@@ -260,8 +260,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T01:06:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T04:44:11Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -424,7 +424,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-05-14T14:08:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "flik2002",
             "repo": "openclaw-monitor",
             "stars": 12,
@@ -507,7 +507,7 @@
         {
           "node_type": "item",
           "title": "Keep - CLI for alerting",
-          "description": null,
+          "description": "keephq/keep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,7 +581,7 @@
         {
           "node_type": "item",
           "title": "OpenDuty",
-          "description": null,
+          "description": "ustream/openduty",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -602,7 +602,7 @@
         {
           "node_type": "item",
           "title": "SLO exporter",
-          "description": null,
+          "description": "seznam/slo-exporter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,7 +636,7 @@
         {
           "node_type": "item",
           "title": "SLO Calculator",
-          "description": null,
+          "description": "last9/slo-computer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -781,7 +781,7 @@
             "open_issues": 95,
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3583,
+            "stars": 3585,
             "topics": [
               "ai-agents",
               "argocd",
@@ -921,8 +921,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T01:06:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T04:44:11Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -977,7 +977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:27:57.007Z",
+    "last_updated": "2026-10-03T05:07:55.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Site Reliability and Production Engineering Tools",
