@@ -125,11 +125,11 @@
             "id": 150954997,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T11:57:20Z",
-            "open_issues": 791,
+            "last_commit": "2026-10-11T03:19:55Z",
+            "open_issues": 793,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17841,
+            "stars": 17843,
             "topics": [
               "database",
               "grafana",
@@ -250,27 +250,6 @@
         },
         {
           "node_type": "item",
-          "title": "KubeStellar Console",
-          "description": "Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
-            "homepage": "https://console.kubestellar.io",
-            "id": 1135473716,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-11T01:06:23Z",
-            "open_issues": 7,
-            "owner": "kubestellar",
-            "repo": "console",
-            "stars": 143,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:21:47.400Z"
-        },
-        {
-          "node_type": "item",
           "title": "agenttrace",
           "description": "TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.",
           "children": [],
@@ -285,7 +264,7 @@
             "open_issues": 5,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "ai-agent-observability",
               "ai-agents",
@@ -303,6 +282,27 @@
               "token-usage",
               "tui"
             ]
+          },
+          "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
+            "id": 1135473716,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-12T01:26:42Z",
+            "open_issues": 13,
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
         },
@@ -520,7 +520,7 @@
             "open_issues": 654,
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12383,
+            "stars": 12388,
             "topics": [
               "aiops",
               "alarm",
@@ -548,11 +548,11 @@
             "id": 808146034,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T21:37:57Z",
-            "open_issues": 474,
+            "last_commit": "2026-10-11T19:31:08Z",
+            "open_issues": 476,
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3563,
+            "stars": 3569,
             "topics": [
               "aiops",
               "chatbot",
@@ -777,11 +777,11 @@
             "id": 1137865761,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T23:34:26Z",
-            "open_issues": 145,
+            "last_commit": "2026-10-12T00:37:45Z",
+            "open_issues": 139,
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3723,
+            "stars": 3733,
             "topics": [
               "ai-agents",
               "argocd",
@@ -890,11 +890,11 @@
             "id": 1279470595,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T17:39:04Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-11T08:37:38Z",
+            "open_issues": 29,
             "owner": "cynative",
             "repo": "cynative",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "agentic-security",
               "aws-security",
@@ -921,8 +921,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T01:06:23Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-12T01:26:42Z",
+            "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 143,
@@ -977,7 +977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:16:30.463Z",
+    "last_updated": "2026-10-12T01:48:11.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Site Reliability and Production Engineering Tools",
