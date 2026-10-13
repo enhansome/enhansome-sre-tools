@@ -4,6 +4,103 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LibreDB Studio",
+              "description": "libredb/libredb-studio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "One browser tab for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, SQLite, Couchbase, ClickHouse, Druid, DuckDB, Turso and more. An open-source SQL IDE with SSO, audit trail and AI-assisted queries MIT licensed, with nothing held back behind an enterprise wall.",
+                "homepage": "https://libredb.org",
+                "id": 1121989093,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-13T03:00:39Z",
+                "open_issues": 59,
+                "owner": "libredb",
+                "repo": "libredb-studio",
+                "stars": 1194,
+                "topics": [
+                  "cassandra",
+                  "clickhouse",
+                  "couchbase",
+                  "database",
+                  "druid",
+                  "elasticsearch",
+                  "good-first-issue",
+                  "hacktoberfest",
+                  "help-wanted",
+                  "mongodb",
+                  "mssql",
+                  "mysql",
+                  "oracle",
+                  "postgresql",
+                  "redis",
+                  "self-hosted",
+                  "sql",
+                  "sql-editor",
+                  "sqlite",
+                  "trino"
+                ]
+              },
+              "first_seen": "2026-10-13T03:11:26.949Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Editors and IDEs"
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent QA",
+          "description": "vostride/agent-qa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
+            "id": 1232322871,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 903,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "fair-source",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
           "node_type": "item",
           "title": "flakybin",
           "description": "mikluko/flakybin",
@@ -31,6 +128,65 @@
             ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DriftWire",
+          "description": "Haswell119/driftwire",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Detect API contract drift: validate your live API against its OpenAPI spec, and catch breaking changes between versions.",
+            "homepage": "https://haswell119.github.io/driftwire/",
+            "id": 1379544618,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-23T22:49:04Z",
+            "open_issues": 0,
+            "owner": "Haswell119",
+            "repo": "driftwire",
+            "stars": 0,
+            "topics": [
+              "api-testing",
+              "ci",
+              "contract-testing",
+              "drift-detection",
+              "openapi",
+              "openapi3",
+              "openapi31"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Retry Jitter Lab",
+          "description": "Experimental Python simulator for comparing retry backoff and jitter policies during a modeled outage and recovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Deterministic retry and jitter simulations for outage-recovery experiments.",
+            "homepage": "https://edilec.com/open-source/retry-jitter-lab/",
+            "id": 1345251206,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T20:47:05Z",
+            "open_issues": 2,
+            "owner": "KRISHNAMMurarka",
+            "repo": "retry-jitter-lab",
+            "stars": 0,
+            "topics": [
+              "backoff",
+              "cli",
+              "distributed-systems",
+              "jitter",
+              "python",
+              "reliability-engineering",
+              "retry",
+              "simulation"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
         }
       ],
       "title": "Continuous Testing"
@@ -101,6 +257,32 @@
                 ]
               },
               "first_seen": "2026-08-28T06:21:47.400Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CI Health Audit",
+              "description": "Zero-dependency GitHub Actions and CLI static audit for workflow security and reliability risks, with Markdown/JSON output and configurable severity gates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zero-dependency GitHub Actions security and reliability audit",
+                "homepage": "https://sdxiaomage.github.io/ci-rescue/",
+                "id": 1328695419,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-08-11T15:01:52Z",
+                "open_issues": 0,
+                "owner": "sdxiaomage",
+                "repo": "ci-health-audit",
+                "stars": 0,
+                "topics": [
+                  "devops",
+                  "github-actions",
+                  "security",
+                  "static-analysis"
+                ]
+              },
+              "first_seen": "2026-10-13T03:11:26.949Z"
             }
           ],
           "description": null,
@@ -109,6 +291,91 @@
         }
       ],
       "title": "Continuous Integration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kzero",
+              "description": "Declarative Kubernetes down/up/reset CLI for bastion maintenance playbooks (scale, Helm, PVC, jobs) with dry-run and notify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Go CLI for declarative Kubernetes pipelines (down, up, reset). Turn start-over into a checked-in playbook: return workloads to a known initialization state—ordered scale-down and bring-up for Deployments, StatefulSets, Helm release steps, and custom scripts. Includes API watchdog, throttled progress logs, and delivery-visible notify events.",
+                "homepage": "https://kzero.hermesrodriguez.com",
+                "id": 1230496722,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-27T12:21:18Z",
+                "open_issues": 0,
+                "owner": "hrodrig",
+                "repo": "kzero",
+                "stars": 4,
+                "topics": [
+                  "automation",
+                  "cli",
+                  "devops",
+                  "golang",
+                  "helm",
+                  "kubernetes",
+                  "sre",
+                  "yaml"
+                ]
+              },
+              "first_seen": "2026-10-13T03:11:26.949Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Terrateam",
+              "description": "stategraph/stategraph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Terraform without the state file bottleneck",
+                "homepage": "https://stategraph.com",
+                "id": 866997913,
+                "language": "OCaml",
+                "license": "MPL-2.0",
+                "last_commit": "2026-10-12T12:09:34Z",
+                "open_issues": 111,
+                "owner": "stategraph",
+                "repo": "stategraph",
+                "stars": 1295,
+                "topics": [
+                  "automation",
+                  "cloud-management",
+                  "devops",
+                  "github-actions",
+                  "infrastructure-as-code",
+                  "infrastructure-automation",
+                  "infrastructure-orchestration",
+                  "ocaml",
+                  "opentofu",
+                  "pulumi",
+                  "tacos",
+                  "terraform",
+                  "terraform-github-actions"
+                ]
+              },
+              "first_seen": "2026-10-13T03:11:26.949Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Infrastructure orchestration"
+        }
+      ],
+      "title": "Continuous Delivery"
     },
     {
       "description": null,
@@ -125,11 +392,11 @@
             "id": 150954997,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T03:19:55Z",
-            "open_issues": 793,
+            "last_commit": "2026-10-12T17:16:46Z",
+            "open_issues": 778,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17843,
+            "stars": 17847,
             "topics": [
               "database",
               "grafana",
@@ -260,11 +527,11 @@
             "id": 1226187070,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-06T06:49:20Z",
+            "last_commit": "2026-10-12T03:06:51Z",
             "open_issues": 5,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "ai-agent-observability",
               "ai-agents",
@@ -297,7 +564,7 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T01:26:42Z",
+            "last_commit": "2026-10-13T01:35:01Z",
             "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
@@ -347,6 +614,44 @@
             ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Telemetry Tracker",
+          "description": "Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lightweight self-hosted telemetry: errors, events, sessions, and a dashboard. Fastify API, Next.js UI, PostgreSQL, @telemetry-tracker/* SDKs.",
+            "homepage": "https://telemetry-tracker.com",
+            "id": 1182480101,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-12T15:47:00Z",
+            "open_issues": 65,
+            "owner": "Telemetry-Tracker",
+            "repo": "telemetry-tracker",
+            "stars": 32,
+            "topics": [
+              "analytics",
+              "developer-tools",
+              "error-monitoring",
+              "error-tracking",
+              "fastify",
+              "monitoring",
+              "monorepo",
+              "nextjs",
+              "observability",
+              "observability-platform",
+              "open-source",
+              "postgresql",
+              "self-hosted",
+              "telemetry",
+              "telemetry-analysis",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
         },
         {
           "node_type": "item",
@@ -479,6 +784,101 @@
         },
         {
           "node_type": "item",
+          "title": "gghstats",
+          "description": "Self-hosted GitHub traffic stats beyond the 14-day API window (SQLite dashboard + Head-to-Head compare).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🚀 gghstats — self-hosted GitHub traffic stats beyond 14 days (Go, SQLite, dashboard)",
+            "homepage": "https://gghstats.com",
+            "id": 1194057061,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-08T03:17:44Z",
+            "open_issues": 3,
+            "owner": "hrodrig",
+            "repo": "gghstats",
+            "stars": 6,
+            "topics": [
+              "analytics",
+              "cli",
+              "dashboard",
+              "dashboard-application",
+              "gghstats",
+              "github",
+              "github-tracker",
+              "github-traffic",
+              "golang",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vectory",
+          "description": "Self-hosted dashboard for editing Vector pipelines, deploying versioned configurations and tracking the configuration running on each host.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted control plane for Vector: design pipelines, release versions, deploy to your hosts, and observe what runs",
+            "homepage": "https://vectory.ahmadz.ai",
+            "id": 1393934518,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-07T04:53:48Z",
+            "open_issues": 0,
+            "owner": "416rehman",
+            "repo": "Vectory",
+            "stars": 6,
+            "topics": [
+              "configuration-management",
+              "devops",
+              "docker",
+              "log-management",
+              "observability",
+              "pipeline-builder",
+              "self-hosted",
+              "vector",
+              "yaml"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rasptele",
+          "description": "Open-source monitoring and control bot for Raspberry Pi Docker servers, with host and container health checks, stateful Telegram alerts, and allowlisted container restarts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Securely monitor and manage a Raspberry Pi Docker homelab from Telegram.",
+            "homepage": null,
+            "id": 1304023233,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-29T17:46:55Z",
+            "open_issues": 11,
+            "owner": "maddhruv",
+            "repo": "rasptele",
+            "stars": 2,
+            "topics": [
+              "coolify",
+              "docker",
+              "homelab",
+              "monitoring",
+              "pihole",
+              "portainer",
+              "python",
+              "raspberry-pi",
+              "self-hosted",
+              "telegram-bot"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
           "title": "DNS Propagation Checker",
           "description": "Open-source DNS propagation monitoring tool with global DNS server coverage",
           "children": [],
@@ -497,6 +897,137 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gha-deadman",
+          "description": "Dead-man's switch on free GitHub Actions that probes a URL on a schedule from outside your network and sends a Telegram alert when it goes down, reminders while it stays down, and a message on recovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dead-man's switch on free GitHub Actions: probe any URL on a schedule, Telegram alerts on down and recovery",
+            "homepage": "https://geiserx.github.io/gha-deadman/",
+            "id": 1335436109,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-06T22:49:19Z",
+            "open_issues": 0,
+            "owner": "GeiserX",
+            "repo": "gha-deadman",
+            "stars": 1,
+            "topics": [
+              "alerting",
+              "cron",
+              "cron-monitoring",
+              "dead-mans-switch",
+              "github-actions",
+              "heartbeat",
+              "homelab",
+              "incident-response",
+              "monitoring",
+              "observability",
+              "self-hosted",
+              "serverless",
+              "sre",
+              "status-page",
+              "telegram",
+              "uptime",
+              "uptime-checker",
+              "uptime-monitoring",
+              "watchdog",
+              "website-monitoring"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MB3R Stack",
+          "description": "Open-source model-based resilience toolchain using telemetry-driven topology discovery and virtual failure simulation for continuous resilience assessment and pre-release risk analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Integration bundle for Bering and Sheaft with Helm, OpenTelemetry overlays, dashboards, and CI/CD adapters",
+            "homepage": null,
+            "id": 1178923182,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-26T17:19:58Z",
+            "open_issues": 5,
+            "owner": "MB3R-Lab",
+            "repo": "mb3r-stack",
+            "stars": 1,
+            "topics": [
+              "bering",
+              "chaos-engineering",
+              "cicd",
+              "helm",
+              "observability",
+              "opentelemetry",
+              "reliability-engineering",
+              "resilience",
+              "sheaft",
+              "sre"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Seitendiff Watcher",
+          "description": "GitHub Actions template that watches a CSS-selected fragment of a public page and opens an issue in a repository you own when that fragment changes. No server and no account elsewhere. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Change monitor for a specific part of a public web page. Runs on GitHub Actions in a repo you own, opens an issue when the watched part changes.",
+            "homepage": null,
+            "id": 1355562512,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-03T11:43:51Z",
+            "open_issues": 0,
+            "owner": "peppe1337",
+            "repo": "seitendiff",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "agent-watch",
+          "description": "POSIX shell scripts that classify background coding-agent jobs as RUNNING, DONE, FAILED, or STALL and preflight transport versus authentication failures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Monitor Claude Code and Codex CLI agents for running, completed, failed, or stalled jobs.",
+            "homepage": "https://status.lifestep.io",
+            "id": 1352707576,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-17T17:30:49Z",
+            "open_issues": 0,
+            "owner": "soul-sol",
+            "repo": "agent-watch",
+            "stars": 0,
+            "topics": [
+              "agent-monitoring",
+              "ai-agents",
+              "automation",
+              "background-jobs",
+              "claude-code",
+              "cli-tool",
+              "codex",
+              "codex-cli",
+              "developer-tools",
+              "devops",
+              "devtools",
+              "llm-tools",
+              "shell",
+              "stall-detection"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
         }
       ],
       "title": "Continuous Monitoring"
@@ -517,10 +1048,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T07:11:17Z",
-            "open_issues": 654,
+            "open_issues": 655,
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12388,
+            "stars": 12396,
             "topics": [
               "aiops",
               "alarm",
@@ -548,11 +1079,11 @@
             "id": 808146034,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T19:31:08Z",
-            "open_issues": 476,
+            "last_commit": "2026-10-12T17:35:32Z",
+            "open_issues": 473,
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3569,
+            "stars": 3574,
             "topics": [
               "aiops",
               "chatbot",
@@ -701,6 +1232,43 @@
         },
         {
           "node_type": "item",
+          "title": "groot",
+          "description": "Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GROOT — Kubernetes cluster diagnostics CLI  Collect nodes, events, pod logs, describes and more with one command.  Fast, parallel, configurable, and outputs a clean .tar.gz archive.  Perfect for incident response and troubleshooting.",
+            "homepage": "https://groot.hermesrodriguez.com",
+            "id": 1224021066,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-10T18:24:43Z",
+            "open_issues": 0,
+            "owner": "hrodrig",
+            "repo": "groot",
+            "stars": 23,
+            "topics": [
+              "cli",
+              "cluster-debug",
+              "cobra",
+              "devops",
+              "diagnostics",
+              "golang",
+              "incident-response",
+              "kubectl",
+              "kubernetes",
+              "logs",
+              "platform-engineering",
+              "post-mortem",
+              "rca",
+              "sre",
+              "troubleshooting"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
           "title": "NthLayer",
           "description": "Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.",
           "children": [],
@@ -711,8 +1279,8 @@
             "id": 1104878764,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-10-07T19:52:26Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-12T15:19:41Z",
+            "open_issues": 32,
             "owner": "rsionnach",
             "repo": "nthlayer",
             "stars": 17,
@@ -758,6 +1326,43 @@
             ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRunbook",
+          "description": "Open-source DevOps question answering over a graph database. Ask an on-call question in plain English, get triage commands in order, what to look for in each output, causes and fixes. No LLM. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ask an on-call question in plain English, get the runbook — triage commands in order, what to look for in each one's output, causes and fixes. Answered by walking a graph, no LLM. Runs on Neo4j or Axon.",
+            "homepage": "https://edgex11.com/blog/why-we-built-our-own-graph-database.html",
+            "id": 1351032673,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-03T13:26:18Z",
+            "open_issues": 0,
+            "owner": "edgex11",
+            "repo": "OpenRunbook",
+            "stars": 0,
+            "topics": [
+              "aws",
+              "cypher",
+              "devops",
+              "gradio",
+              "graph-database",
+              "knowledge-graph",
+              "kubernetes",
+              "neo4j",
+              "ontology",
+              "question-answering",
+              "runbook",
+              "semantic-search",
+              "sre",
+              "terraform",
+              "vector-search"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
         }
       ],
       "title": "Incident Management / Incident Response / IT Alerting / On-Call"
@@ -777,11 +1382,11 @@
             "id": 1137865761,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T00:37:45Z",
-            "open_issues": 139,
+            "last_commit": "2026-10-13T02:58:37Z",
+            "open_issues": 124,
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3733,
+            "stars": 3749,
             "topics": [
               "ai-agents",
               "argocd",
@@ -806,6 +1411,48 @@
             ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Darkmoon",
+          "description": "Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
+            "homepage": "https://dark-moon.org/",
+            "id": 894433723,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-01T08:22:45Z",
+            "open_issues": 8,
+            "owner": "ASCIT31",
+            "repo": "Dark-Moon",
+            "stars": 1021,
+            "topics": [
+              "active-directory",
+              "ai-penetration-testing",
+              "ai-red-team",
+              "ai-red-teaming",
+              "ai-security",
+              "ai-security-tool",
+              "autonomous-ai",
+              "cloud-security",
+              "kubernetes",
+              "llm",
+              "llm-security",
+              "local-llm",
+              "mcp",
+              "offensive-security",
+              "penetration-testing",
+              "pentesting",
+              "red-team",
+              "security-tools",
+              "self-hosted",
+              "vulnerability-scanner"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
         },
         {
           "node_type": "item",
@@ -880,6 +1527,43 @@
         },
         {
           "node_type": "item",
+          "title": "OrcaReplay",
+          "description": "Records an AI agent's model-provider exchange and replays it offline for postmortems, with no provider contacted; replay can fork from any step onto a different model to isolate what the model caused.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+            "homepage": "http://www.orcarouter.ai",
+            "id": 1350419329,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-01T09:18:56Z",
+            "open_issues": 2,
+            "owner": "Continuum-AI-Corp",
+            "repo": "OrcaReplay",
+            "stars": 285,
+            "topics": [
+              "agent-debugging",
+              "agent-tracing",
+              "ai-agent",
+              "ai-agents",
+              "ai-debugger",
+              "ai-debugging",
+              "anthropic",
+              "llm",
+              "llm-agents",
+              "llm-evaluation",
+              "llm-observability",
+              "mcp",
+              "observability",
+              "openai",
+              "orcarouter"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
           "title": "Cynative",
           "description": "Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.",
           "children": [],
@@ -911,6 +1595,38 @@
         },
         {
           "node_type": "item",
+          "title": "OpenSRE (opensre.in)",
+          "description": "Self-hosted AI SRE platform for incident investigation with episodic memory, a Neo4j knowledge graph, Web UI, Slack, and Teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenSRE — the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack & Teams. opensre.in",
+            "homepage": "https://opensre.in",
+            "id": 1194746122,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-12T05:58:01Z",
+            "open_issues": 25,
+            "owner": "swapnildahiphale",
+            "repo": "OpenSRE",
+            "stars": 159,
+            "topics": [
+              "ai-agent",
+              "ai-sre",
+              "devops",
+              "episodic-memory",
+              "incident-investigation",
+              "incident-response",
+              "knowledge-graph",
+              "self-hosted",
+              "site-reliability-engineering",
+              "sre-agent"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
           "title": "KubeStellar Console",
           "description": "AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.",
           "children": [],
@@ -921,7 +1637,7 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T01:26:42Z",
+            "last_commit": "2026-10-13T01:35:01Z",
             "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
@@ -929,6 +1645,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "YYLO",
+          "description": "Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. Each task freezes the protected target SHA and creates a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries; the merge queue owns risk-based review, and workflow runs retain declared receipt hashes and terminal manifests. MIT, on npm as @yylo/cli; orchestrates Pi and Codex subagents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers.",
+            "homepage": "https://yylo.dev",
+            "id": 1129206072,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-09T14:39:36Z",
+            "open_issues": 11,
+            "owner": "yylo-dev",
+            "repo": "yylo",
+            "stars": 63,
+            "topics": [
+              "agentic-coding-approved",
+              "agentic-coding-rules",
+              "agentic-coding-tool",
+              "agentic-coding-tools",
+              "agentic-coding-workflow",
+              "ai-agent",
+              "ai-native-development",
+              "aider",
+              "autonomous-agents",
+              "claude-code",
+              "coding-agent",
+              "developer-tools",
+              "developer-tools-ai-agent",
+              "developer-tools-productivity",
+              "git-workflow",
+              "local-first",
+              "pi-agent",
+              "ralph-loop",
+              "ralph-wiggum",
+              "yylo"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1704,7 @@
             "open_issues": 0,
             "owner": "YawLabs",
             "repo": "tailscale-mcp",
-            "stars": 31,
+            "stars": 33,
             "topics": [
               "acl",
               "ai",
@@ -971,13 +1729,265 @@
             ]
           },
           "first_seen": "2026-08-28T06:21:47.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "KubeIntellect",
+          "description": "Open source (AGPL-3.0) multi-agent Kubernetes SRE agent. Investigates a live cluster via kubectl, Prometheus (PromQL) and Loki (LogQL) and explains root cause in plain English. Every mutating operation stops for human approval enforced at the tool boundary, with role-based access control and a hash-chained decision log.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An AI SRE for Kubernetes: connects to your cluster, investigates with real tools, explains the root cause in plain English, and executes the fix only after you approve it. Peer-reviewed — Journal of Grid Computing, 2026.",
+            "homepage": "https://kubeintellect.com",
+            "id": 1213791623,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-12T19:50:43Z",
+            "open_issues": 17,
+            "owner": "MSKazemi",
+            "repo": "kubeintellect",
+            "stars": 33,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "ai-sre",
+              "aiops",
+              "devops",
+              "good-first-issue",
+              "incident-response",
+              "k8s",
+              "kubernetes",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multi-agent-systems",
+              "observability",
+              "openai",
+              "platform-engineering",
+              "prometheus",
+              "root-cause-analysis",
+              "site-reliability-engineering",
+              "sre"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ai-economics-mcp",
+          "description": "MCP server that prices agent operations before they run: token cost across vendors, fully-loaded agent-hour cost including human review, model-routing savings, and the reviewer capacity a given agent fleet actually needs. 12 calculators by Michał Piszczek (piszczek.pl/tools), MIT, free keyless API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for AI economics — 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation exposure. Free API, no key. By Michał Piszczek.",
+            "homepage": "https://piszczek.pl/tools",
+            "id": 1319444716,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-29T07:17:32Z",
+            "open_issues": 4,
+            "owner": "pich",
+            "repo": "ai-economics-mcp",
+            "stars": 1,
+            "topics": [
+              "ai",
+              "ai-economics",
+              "claude",
+              "cost-optimization",
+              "cursor",
+              "finops",
+              "llm",
+              "llmops",
+              "mcp",
+              "mcp-server",
+              "modelcontextprotocol"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Chronicle",
+          "description": "AI-native incident response and operational memory platform featuring alert deduplication, multi-source ingestion, host telemetry, semantic runbook and historical incident retrieval, SLA automation, and AI-assisted root cause analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://hack-baorda-web.vercel.app",
+            "id": 1261825778,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-24T18:27:17Z",
+            "open_issues": 0,
+            "owner": "shlokkokk",
+            "repo": "Chronicle",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpsMate (itops.sh)",
+          "description": "AI-assisted server operations tool for small teams and solo developers: an SSH terminal and AI chat on one page, continuous patrols with Telegram alerts, and blocking of dangerous commands. The desktop client is open source (MPL-2.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpsMate (itops.sh) is an AI-assisted server operations tool for small teams and solo developers: an SSH terminal and AI chat on one page and continuous patrols with Telegram alerts. Open-source desktop client.",
+            "homepage": "https://www.itops.sh/",
+            "id": 1322554780,
+            "language": "TypeScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-06T08:58:31Z",
+            "open_issues": 21,
+            "owner": "vincent-lxc",
+            "repo": "opsmate-desktop",
+            "stars": 0,
+            "topics": [
+              "ai-assistant",
+              "aiops",
+              "alerting",
+              "credential-vault",
+              "desktop-app",
+              "devops",
+              "devops-tools",
+              "docker",
+              "itops",
+              "linux",
+              "opsmate",
+              "rust",
+              "server-management",
+              "server-monitoring",
+              "sre",
+              "ssh",
+              "ssh-client",
+              "sysadmin",
+              "tauri",
+              "telegram-bot"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "heliograph",
+          "description": "(open source) - CLI and agent skill for debugging hosts you have no access to, for air-gapped, client-owned and change-controlled estates. Diagnostic steps go out over a private git repo, an on-site operator or an unattended runner executes them, and the logs come back the same way with every line timestamped in UTC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CLI, station, transports, MCP server and agent skill for running captured steps across an access boundary",
+            "homepage": "https://docs.heliograph.io",
+            "id": 1359357897,
+            "language": "Shell",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-12T00:59:15Z",
+            "open_issues": 66,
+            "owner": "heliograph-io",
+            "repo": "heliograph",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "air-gapped",
+              "claude",
+              "claude-code",
+              "cli",
+              "devops",
+              "golang",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "remote-execution",
+              "sysadmin"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
         }
       ],
       "title": "AI SRE Tools & SRE Copilots"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Performance Engineering",
+          "description": "Observability and performance testing tools and resources for performance engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated, opinionated collection of tools and resources dedicated to Performance Engineering, covering both Observability and Performance Testing.",
+            "homepage": "https://idle-ti.me/awesome-performance-engineering/",
+            "id": 1132902363,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-10-06T13:30:21Z",
+            "open_issues": 0,
+            "owner": "be-next",
+            "repo": "awesome-performance-engineering",
+            "stars": 38,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "devops",
+              "load-testing",
+              "monitoring",
+              "observability",
+              "performance",
+              "performance-engineering",
+              "performance-testing",
+              "sre"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wyrcan Engineering Roadmap",
+          "description": "Text-first 12-stage curriculum covering systems, Linux, SRE observability, failure testing, and incident postmortems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
+            "homepage": "https://wyrcan-io.github.io/roadmap/",
+            "id": 1354668889,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-09-10T16:43:37Z",
+            "open_issues": 0,
+            "owner": "Wyrcan-io",
+            "repo": "roadmap",
+            "stars": 17,
+            "topics": [
+              "ai",
+              "aws",
+              "cloud",
+              "cloud-architecture",
+              "curriculum",
+              "devops",
+              "devops-roadmap",
+              "distributed-systems",
+              "docker",
+              "engineering-roadmap",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "opentelemetry",
+              "python",
+              "pytorch",
+              "roadmap",
+              "system-design",
+              "systems-engineering",
+              "terraform"
+            ]
+          },
+          "first_seen": "2026-10-13T03:11:26.949Z"
+        }
+      ],
+      "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:48:11.864Z",
+    "last_updated": "2026-10-13T03:11:26.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Site Reliability and Production Engineering Tools",
@@ -985,8 +1995,8 @@
       "id": 245971214,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-07-07T13:34:56Z",
-      "open_issues": 52,
+      "last_commit": "2026-10-12T08:17:18Z",
+      "open_issues": 1,
       "owner": "SquadcastHub",
       "repo": "awesome-sre-tools",
       "stars": 1510,
@@ -1013,7 +2023,7 @@
         "sre"
       ]
     },
-    "original_repository_sha": "3826c1e1abbe99339ab932b94f7abd6fc30c80e2",
+    "original_repository_sha": "fba8c726327434d4005009b015d954e05692b409",
     "enhanced_repository": "enhansome/enhansome-sre-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Site Reliability Engineering Tools with stars"
