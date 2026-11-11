@@ -75,7 +75,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ### Code Editors and IDEs
 
-* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 1,325 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-09
+* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 1,326 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-10
 * [GNU Emacs](https://www.gnu.org/software/emacs/)
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Atom](https://atom.io/)
@@ -96,7 +96,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Continuous Testing
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 850 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-09
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 852 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-10
 * [flakybin](https://github.com/mikluko/flakybin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-06-07
 * [Retry Jitter Lab](https://github.com/KRISHNAMMurarka/retry-jitter-lab) ⭐ 1 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - Experimental Python simulator for comparing retry backoff and jitter policies during a modeled outage and recovery.
 * [DriftWire](https://github.com/Haswell119/driftwire) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-23
@@ -147,7 +147,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ### Integration
 
-* [Abstruse CI](https://github.com/bleenco/abstruse) ⭐ 963 | 🐛 36 | 🌐 Go | 📅 2026-09-04
+* [Abstruse CI](https://github.com/bleenco/abstruse) ⭐ 964 | 🐛 36 | 🌐 Go | 📅 2026-09-04
 * [Badwolf](https://github.com/bosondata/badwolf) ⚠️ Archived
 * [CI Health Audit](https://github.com/sdxiaomage/ci-health-audit) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-11 - Zero-dependency GitHub Actions and CLI static audit for workflow security and reliability risks, with Markdown/JSON output and configurable severity gates.
 * [Jenkins](https://jenkins.io/)
@@ -203,7 +203,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ### Infrastructure orchestration
 
-* [Terrateam](https://github.com/terrateamio/terrateam) ⭐ 1,327 | 🐛 115 | 🌐 OCaml | 📅 2026-11-09
+* [Terrateam](https://github.com/terrateamio/terrateam) ⭐ 1,328 | 🐛 116 | 🌐 OCaml | 📅 2026-11-10
 * [Vagrant](https://www.vagrantup.com/)
 * [Puppet](https://puppet.com/)
 * [Chef](https://www.chef.io/)
@@ -254,20 +254,20 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Continuous Monitoring
 
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/) ⭐ 18,068 | 🐛 768 | 🌐 Go | 📅 2026-11-09
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/) ⭐ 18,083 | 🐛 779 | 🌐 Go | 📅 2026-11-10
 * [Streamdal](https://streamdal.com) - Code-Native Data Privacy - embed privacy controls in your application code to detect and monitor PII. [![Streamdal](https://img.shields.io/github/stars/streamdal/streamdal?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/streamdal/streamdal) ⚠️ Archived
 * [LynxDB](https://github.com/lynxbase/lynxdb) ⭐ 286 | 🐛 8 | 🌐 Go | 📅 2026-08-15 - Lightweight columnar log analytics database for SRE workflows, with a pipe-style query language inspired by SPL for investigating production logs.
 * [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) ⭐ 209 | 🐛 0 | 🌐 Go | 📅 2023-05-10 - Brings GPT into production for application log error monitoring
 * [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 154 | 🐛 6 | 🌐 Rust | 📅 2026-11-03 - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
-* [KubeStellar Console](https://console.kubestellar.io) - Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox. [![KubeStellar Console](https://img.shields.io/github/stars/kubestellar/console?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/kubestellar/console) ⭐ 151 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-10
+* [KubeStellar Console](https://console.kubestellar.io) - Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox. [![KubeStellar Console](https://img.shields.io/github/stars/kubestellar/console?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/kubestellar/console) ⭐ 151 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-11
 * [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 74 | 🐛 11 | 🌐 Python | 📅 2026-10-14 - AWS security auditing CLI that runs 17 checks across IAM, S3, EC2, VPC, and RDS with built-in remediation engine generating AWS CLI commands and Terraform snippets.
 * [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) ⭐ 34 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-09 - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts.
 * [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-18 - Open-source SSL/TLS certificate expiry monitoring tool with email alerts
 * [net-benchmark](https://github.com/net-benchmark/net-benchmark) ⭐ 13 | 🐛 9 | 🌐 Python | 📅 2026-10-23 - DNS/HTTP/SSL benchmarking with CSV, Excel, PDF, and JSON exports.
 * [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-14 - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
 * [gghstats](https://github.com/hrodrig/gghstats) ⭐ 8 | 🐛 5 | 🌐 Go | 📅 2026-11-07 - Self-hosted GitHub traffic stats beyond the 14-day API window (SQLite dashboard + Head-to-Head compare).
+* [Vectory](https://github.com/416rehman/Vectory) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2026-10-30 - Self-hosted dashboard for editing Vector pipelines, deploying versioned configurations and tracking the configuration running on each host.
 * [Faultline](https://github.com/faultline-cli/faultline) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2026-06-05 - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
-* [Vectory](https://github.com/416rehman/Vectory) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-10-30 - Self-hosted dashboard for editing Vector pipelines, deploying versioned configurations and tracking the configuration running on each host.
 * [RowSafe](https://github.com/rowsafe/rowsafe) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-11-05 - Open-source Linux agent for PostgreSQL health monitoring, diagnostics and backup status reporting.
 * [Rasptele](https://github.com/maddhruv/rasptele) ⭐ 2 | 🐛 11 | 🌐 Python | 📅 2026-09-29 - Open-source monitoring and control bot for Raspberry Pi Docker servers, with host and container health checks, stateful Telegram alerts, and allowlisted container restarts.
 * [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-18 - Open-source DNS propagation monitoring tool with global DNS server coverage
@@ -362,15 +362,15 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 
-* [Keep - CLI for alerting](https://github.com/keephq/keep) ⭐ 12,504 | 🐛 665 | 🌐 Python | 📅 2026-11-09
-* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,834 | 🐛 465 | 🌐 Python | 📅 2026-11-10 - Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.
+* [Keep - CLI for alerting](https://github.com/keephq/keep) ⭐ 12,508 | 🐛 674 | 🌐 Python | 📅 2026-11-10
+* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,852 | 🐛 466 | 🌐 Python | 📅 2026-11-10 - Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.
 * [OpenDuty](https://github.com/ustream/openduty) ⚠️ Archived
 * [SLO exporter](https://github.com/seznam/slo-exporter) ⭐ 190 | 🐛 15 | 🌐 Go | 📅 2026-03-19
 * [SLO Calculator](https://github.com/last9/slo-computer) ⭐ 132 | 🐛 1 | 🌐 Go | 📅 2025-03-04
 * [Regen](https://github.com/FluidifyAI/Regen) ⭐ 94 | 🐛 22 | 🌐 Go | 📅 2026-11-09 - Open-source, self-hosted incident management with alert ingestion, on-call scheduling, escalation policies, AI-powered post-mortems, and Slack/Teams integration. AGPLv3 — self-hosted alternative to PagerDuty and Grafana OnCall.
-* [groot](https://github.com/hrodrig/groot) ⭐ 23 | 🐛 0 | 🌐 Go | 📅 2026-11-08 - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
-* [NthLayer](https://github.com/rsionnach/nthlayer) ⭐ 17 | 🐛 30 | 🌐 Python | 📅 2026-11-09 - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
-* [Rootly CLI](https://github.com/rootlyhq/rootly-cli) ⭐ 9 | 🐛 7 | 🌐 Go | 📅 2026-11-06 - Open-source CLI to manage Rootly incidents, alerts, services, teams, and on-call schedules from the terminal.
+* [groot](https://github.com/hrodrig/groot) ⭐ 23 | 🐛 8 | 🌐 Go | 📅 2026-11-10 - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
+* [NthLayer](https://github.com/rsionnach/nthlayer) ⭐ 17 | 🐛 31 | 🌐 Python | 📅 2026-11-10 - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
+* [Rootly CLI](https://github.com/rootlyhq/rootly-cli) ⭐ 9 | 🐛 5 | 🌐 Go | 📅 2026-11-11 - Open-source CLI to manage Rootly incidents, alerts, services, teams, and on-call schedules from the terminal.
 * [OpenRunbook](https://github.com/edgex11/OpenRunbook) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-03 - Open-source DevOps question answering over a graph database. Ask an on-call question in plain English, get triage commands in order, what to look for in each output, causes and fixes. No LLM. MIT.
 * [Squadcast](https://www.squadcast.com)
 * [PagerDuty](https://www.pagerduty.com/)
@@ -439,15 +439,15 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## AI SRE Tools & SRE Copilots
 
-* [Radar](https://github.com/skyhook-io/radar) ⭐ 4,085 | 🐛 107 | 🌐 Go | 📅 2026-11-09 - Open source Kubernetes visibility tool with a built-in MCP server for AI-assisted cluster operations — topology, service traffic, events, logs, and a 31-check best-practices audit.
+* [Radar](https://github.com/skyhook-io/radar) ⭐ 4,095 | 🐛 85 | 🌐 Go | 📅 2026-11-10 - Open source Kubernetes visibility tool with a built-in MCP server for AI-assisted cluster operations — topology, service traffic, events, logs, and a 31-check best-practices audit.
 * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,212 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local
 * [IncidentFox](https://github.com/incidentfox/incidentfox) ⚠️ Archived (open source)
-* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 476 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - Records an AI agent's model-provider exchange and replays it offline for postmortems, with no provider contacted; replay can fork from any step onto a different model to isolate what the model caused.
-* [Aurora](https://github.com/Arvo-AI/aurora) ⭐ 458 | 🐛 87 | 🌐 Python | 📅 2026-11-09 - Open source (Apache 2.0) AI SRE agent that autonomously investigates incidents and performs root cause analysis across AWS, Azure, GCP, and Kubernetes. Self-hosted via Docker Compose or Helm, works with major LLM providers or local models via Ollama.
-* [Orbi](https://orbi.build/?ref=dir-awesome-sre-tools) ([GitHub](https://github.com/orbi-build/orbi) ⭐ 248 | 🐛 9 | 🌐 Python | 📅 2026-11-10, open source, AGPL-3.0) - Self-hostable agent that works from GitHub Issues: code changes, deployment and debugging tasks are run from a labeled Issue, with commands and output kept in the Issue; code changes go through tests, a separate AI review and a CI gate before merge.
-* [Cynative](https://github.com/cynative/cynative) ⭐ 232 | 🐛 28 | 🌐 Go | 📅 2026-11-09 - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.
-* [OpenSRE.in](https://opensre.in) - Self-hosted AI SRE platform for incident investigation with memory, a Neo4j knowledge graph, Web UI, Slack, and Teams ([GitHub](https://github.com/swapnildahiphale/OpenSRE) ⭐ 179 | 🐛 33 | 🌐 Python | 📅 2026-11-09).
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 151 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-10 - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 501 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - Records an AI agent's model-provider exchange and replays it offline for postmortems, with no provider contacted; replay can fork from any step onto a different model to isolate what the model caused.
+* [Aurora](https://github.com/Arvo-AI/aurora) ⭐ 459 | 🐛 93 | 🌐 Python | 📅 2026-11-10 - Open source (Apache 2.0) AI SRE agent that autonomously investigates incidents and performs root cause analysis across AWS, Azure, GCP, and Kubernetes. Self-hosted via Docker Compose or Helm, works with major LLM providers or local models via Ollama.
+* [Orbi](https://orbi.build/?ref=dir-awesome-sre-tools) ([GitHub](https://github.com/orbi-build/orbi) ⭐ 249 | 🐛 7 | 🌐 Python | 📅 2026-11-10, open source, AGPL-3.0) - Self-hostable agent that works from GitHub Issues: code changes, deployment and debugging tasks are run from a labeled Issue, with commands and output kept in the Issue; code changes go through tests, a separate AI review and a CI gate before merge.
+* [Cynative](https://github.com/cynative/cynative) ⭐ 232 | 🐛 27 | 🌐 Go | 📅 2026-11-10 - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.
+* [OpenSRE.in](https://opensre.in) - Self-hosted AI SRE platform for incident investigation with memory, a Neo4j knowledge graph, Web UI, Slack, and Teams ([GitHub](https://github.com/swapnildahiphale/OpenSRE) ⭐ 179 | 🐛 33 | 🌐 Python | 📅 2026-11-10).
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 151 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-11 - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
 * [YYLO](https://github.com/yylo-dev/yylo) ⭐ 66 | 🐛 18 | 🌐 Python | 📅 2026-11-03 - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. Each task freezes the protected target SHA and creates a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries; the merge queue owns risk-based review, and workflow runs retain declared receipt hashes and terminal manifests. MIT, on npm as @yylo/cli; orchestrates Pi and Codex subagents.
 * [KubeIntellect](https://github.com/MSKazemi/kubeintellect) ⭐ 38 | 🐛 31 | 🌐 Python | 📅 2026-11-07 - Open source (AGPL-3.0) multi-agent Kubernetes SRE agent. Investigates a live cluster via kubectl, Prometheus (PromQL) and Loki (LogQL) and explains root cause in plain English. Every mutating operation stops for human approval enforced at the tool boundary, with role-based access control and a hash-chained decision log.
 * [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) ⭐ 35 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
@@ -455,7 +455,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 * [Chronicle](https://github.com/shlokkokk/Chronicle) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24 - AI-native incident response and operational memory platform featuring alert deduplication, multi-source ingestion, host telemetry, semantic runbook and historical incident retrieval, SLA automation, and AI-assisted root cause analysis.
 * [OpsMate (itops.sh)](https://www.itops.sh/) - AI-assisted server operations tool for small teams and solo developers: an SSH terminal and AI chat on one page, continuous patrols with Telegram alerts, and blocking of dangerous commands. The [desktop client](https://github.com/vincent-lxc/opsmate-desktop) ⭐ 0 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-03 is open source (MPL-2.0).
 * [heliograph](https://github.com/dbhq-uk/heliograph) ⭐ 0 | 🐛 66 | 🌐 Shell | 📅 2026-11-09 (open source) - CLI and agent skill for debugging hosts you have no access to, for air-gapped, client-owned and change-controlled estates. Diagnostic steps go out over a private git repo, an on-site operator or an unattended runner executes them, and the logs come back the same way with every line timestamped in UTC.
-* [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) ⭐ 0 | 🐛 47 | 🌐 Shell | 📅 2026-11-08 (open source) - Read-only shell script, with a stdio MCP server, that checks the launchd, cron or systemd setup and trace files of a scheduled AI agent run (e.g. nightly `claude -p`) against 30 known ways of stopping silently, each answered exposed, guarded or undecidable with its evidence.
+* [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) ⭐ 0 | 🐛 48 | 🌐 Shell | 📅 2026-11-11 (open source) - Read-only shell script, with a stdio MCP server, that checks the launchd, cron or systemd setup and trace files of a scheduled AI agent run (e.g. nightly `claude -p`) against 30 known ways of stopping silently, each answered exposed, guarded or undecidable with its evidence.
 * [Sherlocks.ai](https://www.sherlocks.ai)
 * [Resolve.ai](https://resolve.ai/)
 * [Deductive.ai](https://www.deductive.ai/)
@@ -497,4 +497,4 @@ License][cc-by].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
